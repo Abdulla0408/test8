@@ -1,0 +1,5 @@
+users = [
+{'username': 'tonny', 'flowers':987, 'online': True},
+{'username': 'jimmy','flowers':1000, 'online': False},
+{'username': 'tommy','flowers':1285,'online': True},
+]
